@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "أبو بكر الشاطري",
+    "image": "assets/reciters/1.jpg",
+    "code": "shatri",
+    "baseUrl": "https://server11.mp3quran.net/shatri/"
+  },
+  {
+    "id": 2,
+    "name": "أحمد الحواشي",
+    "image": "assets/reciters/2.jpg",
+    "code": "hawashi",
+    "baseUrl": "https://server11.mp3quran.net/hawashi/"
+  },
+  {
+    "id": 3,
+    "name": "ماهر المعيقلي",
+    "image": "assets/reciters/3.jpg",
+    "code": "maher",
+    "baseUrl": "https://server12.mp3quran.net/maher/"
+  },
+  {
+    "id": 4,
+    "name": "عبد الباسط عبد الصمد",
+    "image": "assets/reciters/4.jpg",
+    "code": "basit",
+    "baseUrl": "https://server7.mp3quran.net/basit/"
+  },
+  {
+    "id": 5,
+    "name": "محمد صديق المنشاوي",
+    "image": "assets/reciters/5.jpg",
+    "code": "minsh",
+    "baseUrl": "https://server10.mp3quran.net/minsh/"
+  },
+  {
+    "id": 6,
+    "name": "مشاري راشد العفاسي",
+    "image": "assets/reciters/6.jpg",
+    "code": "afs",
+    "baseUrl": "https://server8.mp3quran.net/afs/"
+  },
+  {
+    "id": 7,
+    "name": "ياسر الدوسري",
+    "image": "assets/reciters/7.jpg",
+    "code": "yasser",
+    "baseUrl": "https://server11.mp3quran.net/yasser/"
+  },
+  {
+    "id": 8,
+    "name": "أحمد بن علي العجمي",
+    "image": "assets/reciters/8.jpg",
+    "code": "ajm",
+    "baseUrl": "https://server10.mp3quran.net/ajm/"
+  },
+  {
+    "id": 9,
+    "name": "عبد الرحمن السديس",
+    "image": "assets/reciters/9.jpg",
+    "code": "sds",
+    "baseUrl": "https://server11.mp3quran.net/sds/"
+  },
+  {
+    "id": 10,
+    "name": "سعد الغامدي",
+    "image": "assets/reciters/10.jpg",
+    "code": "s_gmd",
+    "baseUrl": "https://server7.mp3quran.net/s_gmd/"
+  },
+  {
+    "id": 11,
+    "name": "سعود الشريم",
+    "image": "assets/reciters/11.jpg",
+    "code": "shur",
+    "baseUrl": "https://server7.mp3quran.net/shur/"
+  },
+  {
+    "id": 12,
+    "name": "محمود خليل الحصري",
+    "image": "assets/reciters/12.jpg",
+    "code": "husary",
+    "baseUrl": "https://server13.mp3quran.net/husr/"
+  },
+  {
+    "id": 13,
+    "name": "فارس عباد",
+    "image": "assets/reciters/13.jpg",
+    "code": "fares",
+    "baseUrl": "https://server8.mp3quran.net/frs_a/"
+  },
+  {
+    "id": 14,
+    "name": "إدريس أبكر",
+    "image": "assets/reciters/14.jpg",
+    "code": "abkr",
+    "baseUrl": "https://server6.mp3quran.net/abkr/"
+  },
+  {
+    "id": 15,
+    "name": "خالد الجليل",
+    "image": "assets/reciters/15.jpg",
+    "code": "jaleel",
+    "baseUrl": "https://server10.mp3quran.net/jleel/"
+  },
+  {
+    "id": 16,
+    "name": "عبد الله الجهني",
+    "image": "assets/reciters/16.jpg",
+    "code": "jhn",
+    "baseUrl": "https://server13.mp3quran.net/jhn/"
+  },
+  {
+    "id": 17,
+    "name": "علي عبد الرحمن الحذيفي",
+    "image": "assets/reciters/17.jpg",
+    "code": "hthfi",
+    "baseUrl": "https://server9.mp3quran.net/hthfi/"
+  },
+  {
+    "id": 18,
+    "name": "محمد أيوب",
+    "image": "assets/reciters/18.jpg",
+    "code": "ayyub",
+    "baseUrl": "https://server8.mp3quran.net/ayyub/"
+  },
+  {
+    "id": 19,
+    "name": "ناصر القطامي",
+    "image": "assets/reciters/19.jpg",
+    "code": "qtm",
+    "baseUrl": "https://server6.mp3quran.net/qtm/"
+  },
+  {
+    "id": 20,
+    "name": "عبد الودود حنيف",
+    "image": "assets/reciters/20.jpg",
+    "code": "wdod",
+    "baseUrl": "https://server8.mp3quran.net/wdod/"
+  },
+  {
+    "id": 21,
+    "name": "صلاح بو خاطر",
+    "image": "assets/reciters/21.jpg",
+    "code": "bu_khatr",
+    "baseUrl": "https://server8.mp3quran.net/bu_khtr/"
+  },
+  {
+    "id": 22,
+    "name": "أحمد نعينع",
+    "image": "assets/reciters/22.jpg",
+    "code": "naina",
+    "baseUrl": "https://server11.mp3quran.net/ahmad_nu/"
+  },
+  {
+    "id": 23,
+    "name": "محمد جبريل",
+    "image": "assets/reciters/23.jpg",
+    "code": "jbrl",
+    "baseUrl": "https://server8.mp3quran.net/jbrl/"
+  },
+  {
+    "id": 24,
+    "name": "محمود علي البنا",
+    "image": "assets/reciters/24.jpg",
+    "code": "banna",
+    "baseUrl": "https://archive.org/compress/golmami2005_yahoo_002_20180411_2112/"
+  },
+  {
+    "id": 25,
+    "name": "عبد الله بصفر",
+    "image": "assets/reciters/25.jpg",
+    "code": "bsfr",
+    "baseUrl": "https://server6.mp3quran.net/bsfr/"
+  },
+  {
+    "id": 26,
+    "name": "هاني الرفاعي",
+    "image": "assets/reciters/26.jpg",
+    "code": "hani",
+    "baseUrl": "https://server8.mp3quran.net/hani/"
+  },
+  {
+    "id": 27,
+    "name": "نبيل الرفاعي",
+    "image": "assets/reciters/27.jpg",
+    "code": "nabil",
+    "baseUrl": "https://server9.mp3quran.net/nabil/"
+  },
+  {
+    "id": 28,
+    "name": "محمود الشحات أنور",
+    "image": "assets/reciters/28.jpg",
+    "code": "shahat",
+    "baseUrl": "https://ia801504.us.archive.org/4/items/Mahmoud-Shahat-Anwar/"
+  },
+  {
+    "id": 29,
+    "name": "مصطفى إسماعيل",
+    "image": "assets/reciters/29.jpg",
+    "code": "mustafa",
+    "baseUrl": "https://server8.mp3quran.net/mustafa/"
+  },
+  {
+    "id": 30,
+    "name": "محمد الطبلاوي",
+    "image": "assets/reciters/30.jpg",
+    "code": "tblawi",
+    "baseUrl": "https://server12.mp3quran.net/tblawi/"
+  },
+  {
+    "id": 31,
+    "name": "عمر القزابري",
+    "image": "assets/reciters/31.jpg",
+    "code": "omar_qaz",
+    "baseUrl": "https://server9.mp3quran.net/omar_warsh/"
+  },
+  {
+    "id": 32,
+    "name": "رعد الكردي",
+    "image": "assets/reciters/32.jpg",
+    "code": "raad",
+    "baseUrl": "https://ia601408.us.archive.org/11/items/Raad-Al_Kurdi/"
+  },
+  {
+    "id": 33,
+    "name": "وديع اليمني",
+    "image": "assets/reciters/33.jpg",
+    "code": "wadih",
+    "baseUrl": "https://server6.mp3quran.net/wdee3/"
+  },
+  {
+    "id": 34,
+    "name": "بندر بليلة",
+    "image": "assets/reciters/34.jpg",
+    "code": "balila",
+    "baseUrl": "https://server6.mp3quran.net/balilah/"
+  },
+  {
+    "id": 35,
+    "name": "حسن صالح",
+    "image": "assets/reciters/35.jpg",
+    "code": "h_saleh",
+    "baseUrl": "https://ia903208.us.archive.org/21/items/hassan_mohaed_saleh/"
+  },
+  {
+    "id": 36,
+    "name": "إسلام صبحي",
+    "image": "assets/reciters/36.jpg",
+    "code": "islam",
+    "baseUrl": "https://ia801406.us.archive.org/12/items/002_20221103_202211/"
+  },
+  {
+    "id": 37,
+    "name": "هزاع البلوشي",
+    "image": "assets/reciters/37.jpg",
+    "code": "hazza",
+    "baseUrl": "https://server11.mp3quran.net/hazza/"
+  },
+  {
+    "id": 38,
+    "name": "عبد الرحمن العوسي",
+    "image": "assets/reciters/38.jpg",
+    "code": "aloosi",
+    "baseUrl": "https://server6.mp3quran.net/aloosi/"
+  },
+  {
+    "id": 39,
+    "name": "عبد الله كامل",
+    "image": "assets/reciters/39.jpg",
+    "code": "a_kamel",
+    "baseUrl": "https://server16.mp3quran.net/kamel/Rewayat-Hafs-A-n-Assem/"
+  },
+  {
+    "id": 40,
+    "name": "محمد اللحيدان",
+    "image": "assets/reciters/40.jpg",
+    "code": "lhdan",
+    "baseUrl": "https://server8.mp3quran.net/lhdan/"
+  },
+  {
+    "id": 41,
+    "name": "صلاح البدير",
+    "image": "assets/reciters/41.jpg",
+    "code": "s_bud",
+    "baseUrl": "https://server6.mp3quran.net/s_bud/"
+  },
+  {
+    "id": 42,
+    "name": "علي جابر",
+    "image": "assets/reciters/42.jpg",
+    "code": "a_jaber",
+    "baseUrl": "https://server11.mp3quran.net/a_jbr/"
+  },
+  {
+    "id": 43,
+    "name": "خليفة الطنيجي",
+    "image": "assets/reciters/43.jpg",
+    "code": "tnjy",
+    "baseUrl": "https://server12.mp3quran.net/tnjy/"
+  },
+  {
+    "id": 44,
+    "name": "عبد المحسن القاسم",
+    "image": "assets/reciters/44.jpg",
+    "code": "qasm",
+    "baseUrl": "https://server8.mp3quran.net/qasm/"
+  },
+  {
+    "id": 45,
+    "name": "خالد القحطاني",
+    "image": "assets/reciters/45.jpg",
+    "code": "qht",
+    "baseUrl": "https://server10.mp3quran.net/qht/"
+  },
+  {
+    "id": 46,
+    "name": "عبد الله خياط",
+    "image": "assets/reciters/46.jpg",
+    "code": "khayat",
+    "baseUrl": "https://server12.mp3quran.net/kyat/"
+  },
+  {
+    "id": 47,
+    "name": "عبد الباري الثبيتي",
+    "image": "assets/reciters/47.jpg",
+    "code": "thubti",
+    "baseUrl": "https://server6.mp3quran.net/thubti/"
+  },
+  {
+    "id": 48,
+    "name": "صالح آل طالب",
+    "image": "assets/reciters/48.jpg",
+    "code": "taleb",
+    "baseUrl": "https://server9.mp3quran.net/tlb/"
+  },
+  {
+    "id": 49,
+    "name": "يحيى حوى",
+    "image": "assets/reciters/49.jpg",
+    "code": "yahya",
+    "baseUrl": "https://server12.mp3quran.net/yahya/"
+  },
+  {
+    "id": 50,
+    "name": "زكي داغستاني",
+    "image": "assets/reciters/50.jpg",
+    "code": "zaki",
+    "baseUrl": "https://server9.mp3quran.net/zaki/"
+  },
+  {
+    "id": 51,
+    "name": "شيرزاد عبد الرحمن",
+    "image": "assets/reciters/51.jpg",
+    "code": "shirzad",
+    "baseUrl": "https://server12.mp3quran.net/taher/"
+  },
+  {
+    "id": 52,
+    "name": "طارق عبد الغني دعوب",
+    "image": "assets/reciters/52.jpg",
+    "code": "tareq",
+    "baseUrl": "https://server10.mp3quran.net/tareq/"
+  },
+  {
+    "id": 53,
+    "name": "عبد البارئ محمد",
+    "image": "assets/reciters/53.jpg",
+    "code": "a_bari",
+    "baseUrl": "https://server12.mp3quran.net/bari/"
+  },
+  {
+    "id": 54,
+    "name": "عبد الرشيد صوفي",
+    "image": "assets/reciters/54.jpg",
+    "code": "soufi",
+    "baseUrl": "https://server16.mp3quran.net/soufi/Rewayat-Khalaf-A-n-Hamzah/"
+  },
+  {
+    "id": 55,
+    "name": "عبد العزيز الأحمد",
+    "image": "assets/reciters/55.jpg",
+    "code": "a_ahmed",
+    "baseUrl": "https://server11.mp3quran.net/a_ahmed/"
+  },
+  {
+    "id": 56,
+    "name": "عبد الله المطرود",
+    "image": "assets/reciters/56.jpg",
+    "code": "mtrod",
+    "baseUrl": "https://server8.mp3quran.net/mtrod/"
+  },
+  {
+    "id": 57,
+    "name": "عبد المحسن العبيكان",
+    "image": "assets/reciters/57.jpg",
+    "code": "obk",
+    "baseUrl": "https://server12.mp3quran.net/obk"
+  },
+  {
+    "id": 58,
+    "name": "عبد الهادي أحمد كناكري",
+    "image": "assets/reciters/58.jpg",
+    "code": "kanakeri",
+    "baseUrl": "https://server6.mp3quran.net/kanakeri/"
+  },
+  {
+    "id": 59,
+    "name": "علي حجاج السويسي",
+    "image": "assets/reciters/59.jpg",
+    "code": "suwaisi",
+    "baseUrl": "https://server9.mp3quran.net/hajjaj/"
+  },
+  {
+    "id": 60,
+    "name": "عماد زهير حافظ",
+    "image": "assets/reciters/60.jpg",
+    "code": "emad",
+    "baseUrl": "https://server6.mp3quran.net/hafz/"
+  },
+  {
+    "id": 61,
+    "name": "ماجد الزامل",
+    "image": "assets/reciters/61.jpg",
+    "code": "zamil",
+    "baseUrl": "https://server9.mp3quran.net/zaml/"
+  },
+  {
+    "id": 62,
+    "name": "محمد عبد الكريم",
+    "image": "assets/reciters/62.jpg",
+    "code": "m_krm",
+    "baseUrl": "https://server12.mp3quran.net/m_krm/"
+  },
+  {
+    "id": 63,
+    "name": "محمد عثمان خان",
+    "image": "assets/reciters/63.jpg",
+    "code": "m_khan",
+    "baseUrl": "https://server6.mp3quran.net/khan/"
+  },
+  {
+    "id": 64,
+    "name": "محمود الشيمي",
+    "image": "assets/reciters/64.jpg",
+    "code": "shemi",
+    "baseUrl": "https://media.way2quran.com/mahmoud-al-shimi/ad-duri-an-al-kisai/"
+  },
+  {
+    "id": 65,
+    "name": "مفتاح السلطني",
+    "image": "assets/reciters/65.jpg",
+    "code": "muftah",
+    "baseUrl": "https://ia903108.us.archive.org/20/items/golmami2005_yahoo_002_20180413/"
+  },
+  {
+    "id": 66,
+    "name": "موسى بلال",
+    "image": "assets/reciters/66.jpg",
+    "code": "musa",
+    "baseUrl": "https://server11.mp3quran.net//bilal/"
+  },
+  {
+    "id": 67,
+    "name": "وليد النائحي",
+    "image": "assets/reciters/67.jpg",
+    "code": "waleed",
+    "baseUrl": "https://server9.mp3quran.net/waleed/"
+  },
+  {
+    "id": 68,
+    "name": "ياسر سلامة",
+    "image": "assets/reciters/68.jpg",
+    "code": "y_salama",
+    "baseUrl": "https://server12.mp3quran.net/salamah/Rewayat-Hafs-A-n-Assem/"
+  },
+  {
+    "id": 69,
+    "name": "أحمد خضر الطرابلسي",
+    "image": "assets/reciters/69.jpg",
+    "code": "trabulsi",
+    "baseUrl": "https://server10.mp3quran.net/trabulsi/"
+  },
+  {
+    "id": 70,
+    "name": "إبراهيم الأخضر",
+    "image": "assets/reciters/70.jpg",
+    "code": "akhdar",
+    "baseUrl": "https://server6.mp3quran.net/akdr/"
+  },
+  {
+    "id": 71,
+    "name": "إبراهيم الجبرين",
+    "image": "assets/reciters/71.jpg",
+    "code": "jibreen",
+    "baseUrl": "https://server6.mp3quran.net/jbreen/"
+  },
+  {
+    "id": 72,
+    "name": "أكرم العلاقمي",
+    "image": "assets/reciters/72.jpg",
+    "code": "akram",
+    "baseUrl": "https://server9.mp3quran.net/akrm/"
+  },
+  {
+    "id": 73,
+    "name": "جمال شاكر عبد الله",
+    "image": "assets/reciters/73.jpg",
+    "code": "jamal",
+    "baseUrl": "https://server6.mp3quran.net/jamal/"
+  },
+  {
+    "id": 74,
+    "name": "خالد عبد الكافي",
+    "image": "assets/reciters/74.jpg",
+    "code": "k_kafi",
+    "baseUrl": "https://server11.mp3quran.net/kafi/"
+  },
+  {
+    "id": 75,
+    "name": "خالد المهنا",
+    "image": "assets/reciters/75.jpg",
+    "code": "mohanna",
+    "baseUrl": "https://server11.mp3quran.net/mohna/"
+  },
+  {
+    "id": 76,
+    "name": "سهل ياسين",
+    "image": "assets/reciters/76.jpg",
+    "code": "sahl",
+    "baseUrl": "https://server6.mp3quran.net/shl/"
+  },
+  {
+    "id": 77,
+    "name": "صابر عبد الحكم",
+    "image": "assets/reciters/77.jpg",
+    "code": "saber",
+    "baseUrl": "https://server12.mp3quran.net/hkm/"
+  },
+  {
+    "id": 78,
+    "name": "عبد الله عواد الجهني",
+    "image": "assets/reciters/78.jpg",
+    "code": "juhany",
+    "baseUrl": "https://server13.mp3quran.net/juhany/"
+  },
+  {
+    "id": 79,
+    "name": "عبد المحسن الحارثي",
+    "image": "assets/reciters/79.jpg",
+    "code": "harthi",
+    "baseUrl": "https://server6.mp3quran.net/mohsin_harthi/"
+  },
+  {
+    "id": 80,
+    "name": "محمد البراك",
+    "image": "assets/reciters/80.jpg",
+    "code": "barrak",
+    "baseUrl": "https://ia902801.us.archive.org/2/items/www.elahmad.com_19/"
+  },
+  {
+    "id": 81,
+    "name": "نورين محمد صديق",
+    "image": "assets/reciters/81.jpg",
+    "code": "noreen",
+    "baseUrl": "https://server14.mp3quran.net/noreen/"
+  },
+  {
+    "id": 82,
+    "name": "أحمد النفيس",
+    "image": "assets/reciters/82.jpg",
+    "code": "nfis",
+    "baseUrl": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/"
+  },
+  {
+    "id": 83,
+    "name": "منصور السالمي",
+    "image": "assets/reciters/83.jpg",
+    "code": "salmi",
+    "baseUrl": "https://server14.mp3quran.net/mansor/"
+  },
+  {
+    "id": 84,
+    "name": "هيثم الدخين",
+    "image": "assets/reciters/84.jpg",
+    "code": "dokhin",
+    "baseUrl": "https://server16.mp3quran.net/h_dukhain/Rewayat-Hafs-A-n-Assem/"
+  },
+  {
+    "id": 85,
+    "name": "بدر التركى",
+    "image": "assets/reciters/85.jpg",
+    "code": "turki",
+    "baseUrl": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/"
+  },
+  {
+    "id": 86,
+    "name": " مراجعه ",
+    "image": "assets/reciters/86.jpg",
+    "code": "jalal",
+    "baseUrl": "https://server10.mp3quran.net/jleel/"
+  },
+  {
+    "id": 87,
+    "name": "مصطفى خميس",
+    "image": "assets/reciters/87.jpg",
+    "code": "hatem",
+    "baseUrl": "https://media.way2quran.com/mustafa-khamis/hafs-an-asim/"
+  },
+  {
+    "id": 88,
+    "name": "سلمان العتيبي",
+    "image": "assets/reciters/88.jpg",
+    "code": "salman",
+    "baseUrl": "https://ia904706.us.archive.org/6/items/002_20221104/"
+  },
+  {
+    "id": 89,
+    "name": "شيرزاد طاهر",
+    "image": "assets/reciters/89.jpg",
+    "code": "taher",
+    "baseUrl": "https://server12.mp3quran.net/taher/"
+  },
+  {
+    "id": 90,
+    "name": "عبد العزيز الزهراني",
+    "image": "assets/reciters/90.jpg",
+    "code": "zahrani",
+    "baseUrl": "https://server9.mp3quran.net/zahrani/"
+  },
+  {
+    "id": 91,
+    "name": "عبد الله الموسى",
+    "image": "assets/reciters/91.jpg",
+    "code": "mousa",
+    "baseUrl": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem/"
+  },
+  {
+    "id": 92,
+    "name": "عبد الولي الأركاني",
+    "image": "assets/reciters/92.jpg",
+    "code": "arkani",
+    "baseUrl": "https://server6.mp3quran.net/arkani/"
+  },
+  {
+    "id": 93,
+    "name": "محمد صالح عالم شاه",
+    "image": "assets/reciters/93.jpg",
+    "code": "alam_shah",
+    "baseUrl": "https://server12.mp3quran.net/shah/"
+  },
+  {
+    "id": 94,
+    "name": "محمود الرفاعي",
+    "image": "assets/reciters/94.jpg",
+    "code": "m_rifai",
+    "baseUrl": "https://server11.mp3quran.net/mrifai/"
+  },
+  {
+    "id": 95,
+    "name": "مصطفى اللاهوني",
+    "image": "assets/reciters/95.jpg",
+    "code": "lahoni",
+    "baseUrl": "https://server6.mp3quran.net/lahoni/"
+  },
+  {
+    "id": 96,
+    "name": "ياسر المزروعي",
+    "image": "assets/reciters/96.jpg",
+    "code": "mazroyee",
+    "baseUrl": "https://listen.ourquraan.com/Yasser_Almazroyee_(ya3kooob)/"
+  },
+  {
+    "id": 97,
+    "name": "يوسف الشويعي",
+    "image": "assets/reciters/97.jpg",
+    "code": "shoaie",
+    "baseUrl": "https://server9.mp3quran.net/yousef/"
+  },
+  {
+    "id": 98,
+    "name": "أحمد سعود",
+    "image": "assets/reciters/98.jpg",
+    "code": "saud",
+    "baseUrl": "https://server11.mp3quran.net/saud/"
+  },
+  {
+    "id": 99,
+    "name": "أحمد صابر",
+    "image": "assets/reciters/99.jpg",
+    "code": "saber_ahmed",
+    "baseUrl": "https://server8.mp3quran.net/saber/"
+  },
+  {
+    "id": 100,
+    "name": "سيد رمضان",
+    "image": "assets/reciters/100.jpg",
+    "code": "s_ramadan",
+    "baseUrl": "https://download.tvquran.com/download/recitations/209/158/"
+  }
+]
